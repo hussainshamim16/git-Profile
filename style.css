@@ -1,0 +1,10 @@
+body{
+    background-color: #404040;
+    color: #fff;
+}
+
+.navbar-brand,.nav-link{
+    color: #fff;
+    /* border-radius: 50px; */
+}
+
